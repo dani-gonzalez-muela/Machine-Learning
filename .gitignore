@@ -2,23 +2,18 @@
 1. ML Energy Data/data/
 1. ML Energy Data/building-energy-app/
 
-# 2. NLP Financial Compliance - model weights and datasets (not the app)
-2. NLP Financial Compliance/compliance_model/
-2. NLP Financial Compliance/compliance_dataset.csv
-2. NLP Financial Compliance/compliance_dataset_augmented.csv
-2. NLP Financial Compliance/compliance_dataset_multilabel.csv
-2. NLP Financial Compliance/compliance_app/
 
-3. Fish Species Classification/Ignore/
-4. Advanced Dimension Reduction MNIST/Ignore/
-6. Bagging And Boosting On Genomic Data/Ignore/
-7. Predicting House Prices in Brooklyn/Code/Geospatial/geospatial_data.csv
-8. Cancer Classification With PCA, Feature Selection/Ignore/
-9. Customer Classification (Classification)/data/
-10. Customer Segmentation (Clustering)/data/
 
-2. NLP Financial Compliance/compliance_app/compliance_model_best/
-7. Predicting House Prices in Brooklyn/Code/Geospatial/
+2. Fish Species Classification/Ignore/
+3. Advanced Dimension Reduction MNIST/Ignore/
+5. Bagging And Boosting On Genomic Data/Ignore/
+6. Predicting House Prices in Brooklyn/Code/Geospatial/geospatial_data.csv
+7. Cancer Classification With PCA, Feature Selection/Ignore/
+8. Customer Classification (Classification)/data/
+9. Customer Segmentation (Clustering)/data/
+
+
+6. Predicting House Prices in Brooklyn/Code/Geospatial/
 *.safetensors
 *.pt
 
